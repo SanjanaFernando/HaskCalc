@@ -1,0 +1,12 @@
+# GHC compilation outputs
+*.hi
+*.o
+
+# Local executables
+*.exe
+*.out
+
+# Cabal and Stack build directories
+dist-newstyle/
+.stack-work/
+cabal.project.local
